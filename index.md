@@ -1,4 +1,4 @@
-# austinhartma2000's first CS193 Lab
+# Austin Hartman's first CS193 Lab
 ## What I love about CS193
 - The code all imports without errors (not really)
 - Labs seem to involve more than basic java coding
