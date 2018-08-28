@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# austinhartma2000's first CS193 Lab
+## What I love about CS193
+- The code all imports without errors (not really)
+- Labs seem to involve more than basic java coding
+- It can be completed up to 2 days after initial lab date
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
